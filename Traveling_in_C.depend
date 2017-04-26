@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1464657385 source:e:\uc ppp\projeto agencia viagens\traveling_in_c\destinos.c
+	<stdio.h>
+	<stdlib.h>
+	"destinos.h"
+
+1464658180 source:e:\uc ppp\projeto agencia viagens\traveling_in_c\clientes.c
+	<stdlib.h>
+	<stdio.h>
+	"clientes.h"
+	"gestao.h"
+
+1464654108 e:\uc ppp\projeto agencia viagens\traveling_in_c\clientes.h
+	"gestao.h"
+	"datas.h"
+	"cadeias.h"
+	"destinos.h"
+
+1464188318 e:\uc ppp\projeto agencia viagens\traveling_in_c\datas.h
+
+1464679940 source:e:\uc ppp\projeto agencia viagens\traveling_in_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cadeias.h"
+	"clientes.h"
+	"datas.h"
+	"destinos.h"
+	"gestao.h"
+	"save.h"
+	"time.h"
+
+1464648722 e:\uc ppp\projeto agencia viagens\traveling_in_c\destinos.h
+	"gestao.h"
+	"datas.h"
+	"clientes.h"
+	"cadeias.h"
+
+1464641844 e:\uc ppp\projeto agencia viagens\traveling_in_c\cadeias.h
+
+1464641906 source:e:\uc ppp\projeto agencia viagens\traveling_in_c\cadeias.c
+	<stdio.h>
+	<stdlib.h>
+
+1464657385 source:e:\uc ppp\projeto agencia viagens\traveling_in_c\gestao.c
+	<stdlib.h>
+	<string.h>
+	"gestao.h"
+	"clientes.h"
+	"destinos.h"
+
+1464470317 e:\uc ppp\projeto agencia viagens\traveling_in_c\gestao.h
+	"cadeias.h"
+	"destinos.h"
+	"clientes.h"
+	"datas.h"
+
+1464654190 e:\uc ppp\projeto agencia viagens\traveling_in_c\save.h
+	"destinos.h"
+	"clientes.h"
+	"datas.h"
+
+1464712177 source:e:\uc ppp\projeto agencia viagens\traveling_in_c\save.c
+	<stdio.h>
+	<stdlib.h>
+	"save.h"
+	"destinos.h"
+	"clientes.h"
+	"cadeias.h"
+	"gestao.h"
+
